@@ -17,7 +17,7 @@ Your #1 Source for Free IPTV M3U Links. Watch Live Sports, Cricket, Football &am
   </a>
   <br><br>
   <h3>🚀 Visit Our Official Website:</h3>
-  <h2><a href="https://www.iptvpulse.top">🌐 www.IPTVPulse.top</a></h2>
+  <h2><a href="https://www.iptvpulse.top">🌐 www.iptvpulse.top</a></h2>
 </div>
 
 <hr>
